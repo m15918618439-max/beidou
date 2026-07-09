@@ -1,0 +1,15 @@
+partner-01-tsinghua.png	清华大学
+partner-02-hust.png	华中科技大学
+partner-03-tongji.png	同济大学
+partner-04-macau.png	澳门大学
+partner-05-szu.png	深圳大学
+partner-06-mps-first.svg	公安部第一研究所
+partner-07-caiq.png	中国检验检疫科学研究院
+partner-08-cdc.png	中国疾病预防控制中心
+partner-09-sz-transport.png	深圳市交通运输局
+partner-10-sic.png	国家信息中心
+partner-11-casm.png	中国测绘科学研究院
+partner-12-rioh.png	交通运输部公路科学研究院
+partner-13-nbc-defense.png	中国人民解放军军事科学院防化研究院
+partner-14-nhdrc.png	国家卫生健康委卫生发展研究中心
+partner-15-plrc.png	深圳市规划国土发展研究中心
